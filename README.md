@@ -19,7 +19,7 @@ The data used in this study includes:
 ## Methodology
 The study follows a systematic approach:
 
-1. Selection of NLP libraries: NLTK, Space, and Genesis.
+1. Selection of NLP libraries: NLTK, spaCe, and Gensim.
 2. Design of test scenarios covering common NLP tasks.
 3. Execution of experiments on a standardized hardware platform.
 4. Measurement of energy consumption using DBJoules.
