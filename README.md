@@ -1,4 +1,5 @@
-# NLP Libraries Energy Consumption and Run-time Study
+# NLP Libraries Energy Consumption and Run-time Study for Preprocessing Pipeline
+## (NLP PrePro-Energy Measurement)
 
 ## Overview
 This repository contains the code and data for an empirical study comparing the energy consumption and run-time performance of three popular Natural Language Processing (NLP) libraries: NLTK, spaCy, and Gensim.
