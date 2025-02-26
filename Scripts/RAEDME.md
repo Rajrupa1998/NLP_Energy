@@ -1,5 +1,12 @@
 # Energy Measurement Scripts for NLP Preprocessing
 
+### Each script is named following the convention:
+
+`<library_name>_<dataset_name>.py` where:
+
+`library_name` refers to the NLP library used in the script (NLTK, spaCy, or Gensim).
+`dataset_name` indicates the dataset on which the preprocessing tasks are performed.
+
 ## Overview  
 The scripts used in this study measure the **energy consumption and runtime performance** of **NLP preprocessing tasks**,  across **NLTK, spaCy, and Gensim**. Energy usage is captured for both **CPU and GPU** using **Intel RAPL** and **NVIDIA-SMI**, ensuring a comprehensive evaluation of NLP pipeline efficiency.
 
