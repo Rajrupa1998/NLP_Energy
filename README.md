@@ -22,7 +22,7 @@ The study follows a systematic approach:
 1. Selection of NLP libraries: NLTK, spaCy, and Gensim.
 2. Design of test scenarios covering common NLP tasks.
 3. Execution of experiments on a standardized hardware platform.
-4. Measurement of energy consumption using DBJoules.
+4. Measurement of energy consumption using pyJoules.
 5. Recording of run-time performance metrics.
 6. Analysis of results and comparison of energy efficiency and run-time performance across libraries.
 
